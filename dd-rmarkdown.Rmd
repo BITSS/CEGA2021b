@@ -660,6 +660,6 @@ here goes the code
 - Want to learn more: [great free books](https://bookdown.org/) (can you guess how they were written?)
 ]
 
-```{r gen_pdf, include = FALSE, cache = FALSE, eval = TRUE}
+```{r gen_pdf, include = FALSE, cache = FALSE, eval = FALSE}
 pagedown::chrome_print("dd-rmarkdown.html", output = "slides_dd.pdf")
 ```
