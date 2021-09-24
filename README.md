@@ -1,10 +1,10 @@
-# BITSS Research Transparency and Reproducibility Trainning (RT2) 2021
-Repository for RT2's Trainning on Research Transparency.   
+# CEGA EASST Fellows Trainning on Research Transparency 2021
+Repository for CEGA EASST Fellows Trainning on Research Transparency.   
 Dictated by Fernando Hoces de la Guardia
 
 
 **Wednesday September 1**
-- 9:25 AM	- [Intro to Version Control](https://bitss.github.io/RT2_remote_2021/)
+- 9:25 AM	- [Intro to Version Control]( https://bitss.github.io/CEGA2021b/)
 
 
 
